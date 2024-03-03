@@ -1,0 +1,19 @@
+{
+  "name": "ethereal-web3-sorcery",
+  "version": "0.1.1",
+  "description": "Unleash the power of Ethereal Web3 Sorcery for the Arbitrum network",
+  "main": "ethereal-web3-sorcery.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kale4/ethereal-web3-sorcery.git"
+  },
+  "homepage": "https://github.com/kale4/ethereal-web3-sorcery.git",
+  "keywords": ["web3", "arbitrum", "sorcery"],
+  "dependencies": {
+    "web3": "^2.0.0",
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "license": "MIT"
+}
